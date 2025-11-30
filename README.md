@@ -1,0 +1,2 @@
+# ProyectoEDA2-G3
+En este proyecto se ha propuesto resolver el problema de asignación de horarios a cursos a partir de conflictos con sus salones y profesores. Se aplicaron distintos algoritmos de coloreo de grafos. En este caso, se utilizó una metodología experimental, analítica y comparativa ya que se investigó acerca de los algoritmos Greedy, Welsh-Powell, Backtracking y DSatur, se implementaron y se compararon los resultados obtenidos entre estos.
